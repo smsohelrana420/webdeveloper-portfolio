@@ -99,6 +99,7 @@ nav a{
     
 }
 /* main section styles */
+
 /* about section styles */
 .about{
     padding: 130px;
@@ -107,4 +108,11 @@ nav a{
     margin: 130px 0;
     margin-left: 230px;
     margin-right: 230px;
+}
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+.about-info{
+    text-align: center;
 }
